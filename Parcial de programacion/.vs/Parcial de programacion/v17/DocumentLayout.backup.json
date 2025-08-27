@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leona\\OneDrive\\Desktop\\Ejercicio arreglo y lista- 2\\Parcial de programacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BB24A-A627-4012-A02C-5A3F4760AC65}|clases\\clases.csproj|c:\\users\\leona\\onedrive\\desktop\\ejercicio arreglo y lista- 2\\parcial de programacion\\clases\\gestionlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4BB24A-A627-4012-A02C-5A3F4760AC65}|clases\\clases.csproj|solutionrelative:clases\\gestionlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BB24A-A627-4012-A02C-5A3F4760AC65}|clases\\clases.csproj|c:\\users\\leona\\onedrive\\desktop\\ejercicio arreglo y lista- 2\\parcial de programacion\\clases\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4BB24A-A627-4012-A02C-5A3F4760AC65}|clases\\clases.csproj|solutionrelative:clases\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BB24A-A627-4012-A02C-5A3F4760AC65}|clases\\clases.csproj|c:\\users\\leona\\onedrive\\desktop\\ejercicio arreglo y lista- 2\\parcial de programacion\\clases\\librofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4BB24A-A627-4012-A02C-5A3F4760AC65}|clases\\clases.csproj|solutionrelative:clases\\librofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BB24A-A627-4012-A02C-5A3F4760AC65}|clases\\clases.csproj|c:\\users\\leona\\onedrive\\desktop\\ejercicio arreglo y lista- 2\\parcial de programacion\\clases\\librodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4BB24A-A627-4012-A02C-5A3F4760AC65}|clases\\clases.csproj|solutionrelative:clases\\librodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A42193-91C0-4FA2-A76E-6CD4E4F1315D}|Parcial de programacion\\Parcial de programacion.csproj|C:\\Users\\leona\\OneDrive\\Desktop\\Ejercicio arreglo y lista- 2\\Parcial de programacion\\parcial de programacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A42193-91C0-4FA2-A76E-6CD4E4F1315D}|Parcial de programacion\\Parcial de programacion.csproj|solutionrelative:parcial de programacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BB24A-A627-4012-A02C-5A3F4760AC65}|clases\\clases.csproj|c:\\users\\leona\\onedrive\\desktop\\ejercicio arreglo y lista- 2\\parcial de programacion\\clases\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4BB24A-A627-4012-A02C-5A3F4760AC65}|clases\\clases.csproj|solutionrelative:clases\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibroFisico.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Desktop\\Ejercicio arreglo y lista- 2\\Parcial de programacion\\clases\\LibroFisico.cs",
+              "RelativeDocumentMoniker": "clases\\LibroFisico.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Desktop\\Ejercicio arreglo y lista- 2\\Parcial de programacion\\clases\\LibroFisico.cs",
+              "RelativeToolTip": "clases\\LibroFisico.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA3wBcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:12:37.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibroDigital.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Desktop\\Ejercicio arreglo y lista- 2\\Parcial de programacion\\clases\\LibroDigital.cs",
+              "RelativeDocumentMoniker": "clases\\LibroDigital.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Desktop\\Ejercicio arreglo y lista- 2\\Parcial de programacion\\clases\\LibroDigital.cs",
+              "RelativeToolTip": "clases\\LibroDigital.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:09:50.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Desktop\\Ejercicio arreglo y lista- 2\\Parcial de programacion\\clases\\Prestamo.cs",
+              "RelativeDocumentMoniker": "clases\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Desktop\\Ejercicio arreglo y lista- 2\\Parcial de programacion\\clases\\Prestamo.cs",
+              "RelativeToolTip": "clases\\Prestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:07:06.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Desktop\\Ejercicio arreglo y lista- 2\\Parcial de programacion\\clases\\Libro.cs",
+              "RelativeDocumentMoniker": "clases\\Libro.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Desktop\\Ejercicio arreglo y lista- 2\\Parcial de programacion\\clases\\Libro.cs",
+              "RelativeToolTip": "clases\\Libro.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:43:06.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Desktop\\Ejercicio arreglo y lista- 2\\Parcial de programacion\\Parcial de programacion\\Program.cs",
+              "RelativeDocumentMoniker": "Parcial de programacion\\Program.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Desktop\\Ejercicio arreglo y lista- 2\\Parcial de programacion\\Parcial de programacion\\Program.cs",
+              "RelativeToolTip": "Parcial de programacion\\Program.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAkwEkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:42:26.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionLibro.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Desktop\\Ejercicio arreglo y lista- 2\\Parcial de programacion\\clases\\GestionLibro.cs",
+              "RelativeDocumentMoniker": "clases\\GestionLibro.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Desktop\\Ejercicio arreglo y lista- 2\\Parcial de programacion\\clases\\GestionLibro.cs",
+              "RelativeToolTip": "clases\\GestionLibro.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:24:08.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

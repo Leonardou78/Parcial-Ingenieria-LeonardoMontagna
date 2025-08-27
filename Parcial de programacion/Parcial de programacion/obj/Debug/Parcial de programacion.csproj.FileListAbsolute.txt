@@ -1,0 +1,10 @@
+C:\Users\leona\OneDrive\Desktop\Ejercicio arreglo y lista- 2\Parcial de programacion\Parcial de programacion\bin\Debug\Parcial de programacion.exe.config
+C:\Users\leona\OneDrive\Desktop\Ejercicio arreglo y lista- 2\Parcial de programacion\Parcial de programacion\bin\Debug\Parcial de programacion.exe
+C:\Users\leona\OneDrive\Desktop\Ejercicio arreglo y lista- 2\Parcial de programacion\Parcial de programacion\bin\Debug\Parcial de programacion.pdb
+C:\Users\leona\OneDrive\Desktop\Ejercicio arreglo y lista- 2\Parcial de programacion\Parcial de programacion\bin\Debug\clases.dll
+C:\Users\leona\OneDrive\Desktop\Ejercicio arreglo y lista- 2\Parcial de programacion\Parcial de programacion\bin\Debug\clases.pdb
+C:\Users\leona\OneDrive\Desktop\Ejercicio arreglo y lista- 2\Parcial de programacion\Parcial de programacion\obj\Debug\Parcial de programacion.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Desktop\Ejercicio arreglo y lista- 2\Parcial de programacion\Parcial de programacion\obj\Debug\Parcial de programacion.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Desktop\Ejercicio arreglo y lista- 2\Parcial de programacion\Parcial de programacion\obj\Debug\Parcial .FB18D331.Up2Date
+C:\Users\leona\OneDrive\Desktop\Ejercicio arreglo y lista- 2\Parcial de programacion\Parcial de programacion\obj\Debug\Parcial de programacion.exe
+C:\Users\leona\OneDrive\Desktop\Ejercicio arreglo y lista- 2\Parcial de programacion\Parcial de programacion\obj\Debug\Parcial de programacion.pdb

@@ -1,0 +1,6 @@
+C:\Users\leona\OneDrive\Desktop\Ejercicio arreglo y lista- 2\Parcial de programacion\clases\bin\Debug\clases.dll
+C:\Users\leona\OneDrive\Desktop\Ejercicio arreglo y lista- 2\Parcial de programacion\clases\bin\Debug\clases.pdb
+C:\Users\leona\OneDrive\Desktop\Ejercicio arreglo y lista- 2\Parcial de programacion\clases\obj\Debug\clases.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Desktop\Ejercicio arreglo y lista- 2\Parcial de programacion\clases\obj\Debug\clases.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Desktop\Ejercicio arreglo y lista- 2\Parcial de programacion\clases\obj\Debug\clases.dll
+C:\Users\leona\OneDrive\Desktop\Ejercicio arreglo y lista- 2\Parcial de programacion\clases\obj\Debug\clases.pdb
